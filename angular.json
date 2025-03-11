@@ -14,10 +14,10 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-           //"baseHref": "/sf-ionic2/ ",
-           //"deployUrl": "/sf-ionic2/",
-           "baseHref": "/ ",
-           "deployUrl": "/",
+           "baseHref": "/sf-ionic2/ ",
+           "deployUrl": "/sf-ionic2/",
+           //"baseHref": "/ ",
+           //"deployUrl": "/",
             "outputPath": "build",
             "index": "src/index.html",
             "main": "src/main.ts",
